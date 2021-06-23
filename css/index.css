@@ -1,3 +1,19 @@
-ul{
-    list-style: none;
+body{
+    text-align: center;
+    background-image: linear-gradient(to bottom right, #616063, #c08267,#a0583c);
+    background-attachment: fixed;
+}
+
+h1{
+    margin-top: 40px;
+}
+
+p{
+    font-size: 18px;
+    margin-top: 20px;
+}
+
+a{
+  font-size: 16px;
+    color: plum;
 }
