@@ -1,18 +1,18 @@
-body{
+body {
   text-align: center;
-      background-image: linear-gradient(to bottom right, #616063, #c08267,#a0583c);
-    background-attachment: fixed;
+  background-image: linear-gradient(to bottom right, #616063, #c08267, #a0583c);
+  background-attachment: fixed;
 }
 
-h1{
+h1 {
   margin-top: 40px;
 }
 
-h2{
+h2 {
   font-size: 24px;
 }
 
-a{
+a {
   font-size: 16px;
-    color: plum;
+  color: plum;
 }

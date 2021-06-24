@@ -1,10 +1,10 @@
-body{
+body {
   text-align: center;
-      background-image: linear-gradient(to bottom right, #616063, #c08267,#a0583c);
-    background-attachment: fixed;
+  background-image: linear-gradient(to bottom right, #616063, #c08267, #a0583c);
+  background-attachment: fixed;
 }
 
-a{
+a {
   font-size: 16px;
   color: plum;
 }
